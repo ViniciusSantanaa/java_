@@ -1,0 +1,43 @@
+.fundo_form{
+    margin: 2rem;
+    display: flex;
+    justify-content: right;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    background-color: #CFDEE7;
+    height: 34rem;
+    width: 24rem;
+    border-radius: 0.5rem;
+}
+
+.titulo_forms{
+    color: #0A369D;
+    font-size: 1.8rem;
+    margin: 2rem;
+    background-color: #CFDEE7;
+}
+
+.label{
+    background-color: #FFFF;
+    color: #0A369D;
+    padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    border: 1px #0A369D solid;
+}
+
+.botao{
+    background-color: #0A369D;
+    padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    color: #FFFF;
+    display: flex;
+    justify-content: center;
+    border: none;
+    font-size: 1.3rem;
+}

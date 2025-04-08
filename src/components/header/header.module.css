@@ -1,0 +1,38 @@
+.header{
+    background-color: #CFDEE7;
+    height: 7.5rem;
+    width: 100%;
+}
+
+.menu{
+    background-color: #CFDEE7;
+    display: flex;
+    align-items: center;
+    padding: 2.5rem;
+    justify-content: space-between;
+}
+.h1{
+    font-size: 2rem;
+    color: #0A369D;
+    font-weight: 500;
+    font-style: italic;
+    background-color: #CFDEE7;
+}
+
+.lista{
+    display: flex;
+    gap: 5rem;
+    background-color: #CFDEE7;
+    color: #0A369D;
+}
+
+.lista_itens{
+    background-color: #CFDEE7;
+    font-size: 1.3rem;
+}
+
+.carrinho{
+    width: 2rem;
+    height: 2rem;
+    background-color: #CFDEE7;  
+}
