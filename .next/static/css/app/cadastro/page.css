@@ -1,0 +1,46 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[12].oneOf[7].use[3]!./src/components/cadastro/cadastro.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.cadastro_fundo_form__sqGt0{
+    margin: 2rem;
+    display: flex;
+    justify-content: right;
+}
+
+.cadastro_form__iJSq5{
+    display: flex;
+    flex-direction: column;
+    background-color: #CFDEE7;
+    height: 34rem;
+    width: 24rem;
+    border-radius: 0.5rem;
+}
+
+.cadastro_titulo_forms__W_bVV{
+    color: #0A369D;
+    font-size: 1.8rem;
+    margin: 2rem;
+    background-color: #CFDEE7;
+}
+
+.cadastro_label__vsP8g{
+    background-color: #FFFF;
+    color: #0A369D;
+    padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    border: 1px #0A369D solid;
+}
+
+.cadastro_botao__E1yBe{
+    background-color: #0A369D;
+    padding: 1.5rem;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    color: #FFFF;
+    display: flex;
+    justify-content: center;
+    border: none;
+    font-size: 1.3rem;
+}
